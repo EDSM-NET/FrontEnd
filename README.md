@@ -1,2 +1,2 @@
 # FrontEnd
-Issues tracker fro EDSM
+Issues tracker for EDSM
